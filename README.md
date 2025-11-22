@@ -143,7 +143,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Zohaib Khan**
+**Zohaib Malik**
 - GitHub: [@zohaibkhan745](https://github.com/zohaibkhan745)
 
 ## 🙏 Acknowledgments
