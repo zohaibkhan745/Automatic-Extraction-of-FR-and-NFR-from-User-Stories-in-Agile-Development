@@ -1,0 +1,18 @@
+As a user, I want to register an account so that I can access the system.
+As a customer, I want to view my order history.
+The system should load within 2 seconds.
+The application must be secure and protect user data.
+As an admin, I need to manage user permissions.
+The system shall be available 99.9% of the time.
+The interface should be user-friendly and intuitive.
+I want to search for products by name.
+The system must handle 1000 concurrent users.
+As a customer, I want to add items to my shopping cart.
+As a user, I want to reset my password if I forget it.
+The application should be compatible with major browsers.
+As a seller, I want to upload product images.
+The system must comply with GDPR regulations.
+The database should be backed up daily.
+As a customer, I want to track my order status.
+The system should respond within 500 milliseconds.
+As an admin, I want to generate sales reports.
